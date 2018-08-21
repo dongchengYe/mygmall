@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/mygmall.iml" filepath="$PROJECT_DIR$/.idea/mygmall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mygmall-common-util/mygmall-common-util.iml" filepath="$PROJECT_DIR$/mygmall-common-util/mygmall-common-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mygmall-parent/mygmall-parent.iml" filepath="$PROJECT_DIR$/mygmall-parent/mygmall-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mygmall-service-util/mygmall-service-util.iml" filepath="$PROJECT_DIR$/mygmall-service-util/mygmall-service-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mygmall-web-util/mygmall-web-util.iml" filepath="$PROJECT_DIR$/mygmall-web-util/mygmall-web-util.iml" />
+    </modules>
+  </component>
+</project>
